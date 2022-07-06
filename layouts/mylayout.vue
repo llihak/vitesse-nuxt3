@@ -1,8 +1,8 @@
 <template>
-  <main class="py-20 px-10 text-center">
-    <h2>My Layout</h2>
+  <main class="py-20 px-10 ">
+    <!-- <h2>My Layout</h2> -->
     <slot />
-    <div class="mt-5 mx-auto text-center opacity-25 text-sm">
+    <div class="mt-5 mx-auto  opacity-25 text-sm">
       [myLayout]
     </div>
   </main>

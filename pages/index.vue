@@ -9,6 +9,7 @@
         </div>
       </template>
     </Suspense>
+    <nuxt-link to="/powertools">powertools</nuxt-link>
     <InputEntry />
   </div>
 </template>
